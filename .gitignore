@@ -2,5 +2,6 @@
 .idea/
 __pycache__/
 *.pyc
-*.jpg
+/app/static/img/profile_pics/*.jpg
+!/app/static/img/profile_pics/default.jpg
 *.db
